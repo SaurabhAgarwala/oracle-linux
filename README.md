@@ -1,6 +1,6 @@
 # Oracle Linux
 
-This repository provides tips, scripts, tools, and examples for developers and operators to get started with Oracle Linux.
+This repository provides tips, scripts, tools, and examples for developers and operators to get started with Oracle Linux devloped by Oracle.
 
 ## Getting started with Oracle Linux
 
